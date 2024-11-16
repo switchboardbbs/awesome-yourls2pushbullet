@@ -407,6 +407,7 @@ Jump to [0-9](#0-9) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) 
 - [YA Phish Checker](https://github.com/stefanmm/YOURLS-ya-phish-checker) - Prevent spam/phishing links using ipqualityscore's API. Fork of Phishtank-2.0 (+some extra features)
 - [YAPCache](https://github.com/tipichris/YAPCache) - YAPCache is an APC based cache designed to reduce the database load of YOURLS and increase performance.
 - [YOURS-TN](https://github.com/sgiovagnoli/YOURLS-TN) - Display thumbnails on YOURLS admin page and stats page, using thumbnail.ws.
+- [YOURLS2Pushbullet](https://github.com/switchboardbbs/yoursl2pushbullet) - Link click notifications facilitated by Pushbullet for YOURLs.
 - [YouTube Title Fix](https://github.com/joshp23/YOURLS-YouTube-title-fix) - Fetch YouTube page titles via Google API.
 
 [⬆️ Go to section](#plugins)
